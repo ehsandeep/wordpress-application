@@ -21,7 +21,7 @@ jobs:
       - name: Nuclei - DAST Scan
         uses: projectdiscovery/nuclei-action@main
         with:
-          target: https://example.com
+          target: http://127.0.0.1:31337
           github-report: true
           include-rr: true
           github-token: ${{ secrets.GITHUB_TOKEN }}
