@@ -1,4 +1,4 @@
-# Damn Vulnerable WordPress
+# Vulnerable WordPress Application
 
 Playground for WordPress hacking and [wpscan](https://github.com/wpscanteam/wpscan) testing.
 
